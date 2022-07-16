@@ -1,5 +1,4 @@
 # OOP-Projects
-OOP Projects
 <table>
 	<tr>
 		<td>
